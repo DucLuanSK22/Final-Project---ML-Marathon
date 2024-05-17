@@ -1,7 +1,8 @@
 # Final-Project---ML-Marathon
-# 20020685 - Nguyễn Đức Luân
-# 20020663 - Đinh Quốc Hiếu
-# 20020703 - Chu Thanh Quang
+
+## 20020685 - Nguyễn Đức Luân 
+## 20020663 - Đinh Quốc Hiếu
+## 20020703 - Chu Thanh Quang
     
     Khi vận động viên được các thương hiệu lớn tài trợ mà xuất sắc vô địch
 giải đấu, những phụ kiện vận động viên dùng khi thi đấu như mẫu giày chạy,
